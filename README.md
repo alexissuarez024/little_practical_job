@@ -30,6 +30,7 @@ Una vez dentro instalaremos las siguientes librerias utilizadas:
 - pandas 
 - yagmail 
 - psycopg2
+- pytz
 
 ### Paso 2
 En la importación de librerias
