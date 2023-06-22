@@ -1,0 +1,9 @@
+config/
+__pycache__/
+.vscode/
+config.py
+data.ini
+logs/
+plugins/
+technicalVenv/
+docker-compose.yaml
